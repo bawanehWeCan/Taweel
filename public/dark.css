@@ -1,0 +1,36 @@
+.dark .top-menu .dropdown .dropdown-menu {margin-right: -146px;}
+
+.dark .wrapper .page-wrap .main-content {background: #1e1e2dc7;}
+
+.dark header.header-top {background: #1e1e2d !important;}
+
+.dark .card {background: #272d36 !important;}
+
+.dark * {color: #fff !important;}
+
+.dark .top-menu .nav-link {background: #272d36;}
+
+
+
+.dark .table thead {background: #131923;}
+
+.dark table * {border-color: #000 !important;}
+
+.dark .form-control {background: #131923 !important;color: #fff !important;border-color: #000;}
+
+.dark .pagination .page-item a {background: #131923 !important;}
+
+.dark footer.footer {background: #131923 !important;}
+
+.dark .select2-container[dir="rtl"] .select2-selection--single .select2-selection__rendered {background: #131923;border-color: #000;}
+
+.dark .select2.select2-container--default .select2-selection--single {border-color: #000;}
+
+.select2-container--open .select2-dropdown--below {right: auto;background: #000;}
+
+.dark .select2-container--default .select2-results__option {background: #000;}
+
+.dark .select2-container--default .select2-dropdown .select2-search--dropdown .select2-search__field {background: #131923;}
+
+
+
